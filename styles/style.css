@@ -1,0 +1,36 @@
+* { 
+margin: 0; 
+padding: 0; 
+} 
+/*  */ 
+span { 
+font-size: 32px; 
+} 
+th {
+    background-color: #0093C1;
+    border-bottom: 2px solid #005c79;
+    border-left: 2px solid #005c79;
+    color: white;
+    font-family: consolas;
+    width: 1%;
+    padding: 0.1% 2% 0.1% 2%;
+}
+
+td {
+    background-color: #ffffff;
+    border-bottom: 2px solid #dddddd;
+    border-left: 2px solid #dddddd;
+    color: #007ca1;
+    font-family: consolas;
+    width: 1%;
+    text-align: center;
+    padding: 0.1% 0 0.1% 0;
+}
+
+td input{
+    width: 100%;
+}
+
+.second td {
+    background-color: #e8f8ff;
+}
